@@ -7,7 +7,7 @@ on:
   release:
     types: [created]
 
-  publish-npm:
+  public:
     needs: build
     runs-on: ubuntu-latest
     steps:
@@ -16,7 +16,7 @@ on:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: npm run docs:build
+      - run: npm run build
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
 
