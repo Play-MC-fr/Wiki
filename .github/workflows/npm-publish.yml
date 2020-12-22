@@ -17,7 +17,6 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
+      - run: ls -la
       - run: npm install
       - run: npm run build
-      - run: yarn install
-
