@@ -1,0 +1,19 @@
+{
+  "name": "wiki-play-mc",
+  "version": "0.0.1",
+  "description": "Wiki de Play-MC.fr",
+  "main": "index.js",
+  "authors": {
+    "name": "Play-MC.fr",
+    "email": "contact@play-mc.fr"
+  },
+  "repository": "https://github.com/Play-MC-fr/Wiki/wiki-play-mc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
