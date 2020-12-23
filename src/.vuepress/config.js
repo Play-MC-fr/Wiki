@@ -56,7 +56,7 @@ module.exports = {
           title: 'Introduction',
           collapsable: false,
           children: [
-            '',
+            'index.md',
             'quel-serveur-choisir.md',
           ]
         },
