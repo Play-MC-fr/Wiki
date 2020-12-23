@@ -1,7 +1,5 @@
 # Protéger votre terrain
 
-## Protéger votre terrain :
-
 Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur ClemW\), vous en avez de la chance !
 
 {% embed url="https://www.youtube.com/embed/R3DS8IT8Cio" caption="" %}

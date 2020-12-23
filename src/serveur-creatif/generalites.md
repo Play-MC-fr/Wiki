@@ -1,9 +1,9 @@
 # Généralités
 
-{% hint style="info" %}
+:::
 Version actuelle : 1.15.2  
 IP : crea.play-mc.fr
-{% endhint %}
+:::
 
 Qu'entendons-nous par "vanilla créatif" ? Tout simplement la mise à disposition d'un terrain vierge avec le mode de jeu créatif \(gamemode 1\). Nous restons évidemment fidèles à notre marque de fabrique vanilla : un minimum de plugins et on reste proche du jeu de base !
 
