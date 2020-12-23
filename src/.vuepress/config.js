@@ -18,7 +18,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#4d698e' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -29,12 +29,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    logo: "assets/logo_pmc.png",
+    logo: "https://play-mc.fr/img/logotext3_red.png",
     repo: 'https://github.com/Play-MC-fr/Wiki',
     searchPlaceholder: 'Rechercher',
     editLinks: true,
     docsDir: 'src',
-    editLinkText: '',
+    editLinkText: 'Editer cette page',
     lastUpdated: false,
     nav: [
       {
