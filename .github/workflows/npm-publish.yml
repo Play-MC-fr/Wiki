@@ -27,10 +27,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm run build
-    - run: cd src/.vuepress/dist
-    - run: git init
-    - run: git config --global user.email "you@example.com"
-    - run: git config --global user.name "Your Name"
-    - run: git add -A
-    - run: git commit -m 'deploy'
-    - run: git push -f git@github.com:play-mc.fr/wiki.github.io.git pages
+  
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v6
+      with:
+        author_name: Your Name
+        author_email: mail@example.com
+        message: 'Your commit message'
+        branch: pages
+        add: 'src/.vuepress/dist/*'
