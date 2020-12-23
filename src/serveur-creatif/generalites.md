@@ -34,7 +34,11 @@ Vous avez accès à quelques commandes supplémentaires :
 
 Voici quelques ressources pour découvrir le serveur créatif :
 
-{% embed url="https://www.youtube.com/watch?v=TfyDxtaItLw" caption="Vidéo de présentation du serveur créatif" %}
+<iframe width="100%" height="auto"
+  src="https://www.youtube.com/embed/TfyDxtaItLw" frameborder="0"
+  allow="encrypted-media"
+  allowfullscreen>
+</iframe>
 
 {% embed url="https://play-mc.fr/forum/d/637-un-nouveau-serveur-d-di-vanilla-cr-atif" caption="Présentation du serveur sur le forum" %}
 

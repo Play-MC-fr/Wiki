@@ -4,7 +4,11 @@
 
 Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur ClemW\), vous en avez de la chance !
 
-{% embed url="https://www.youtube.com/embed/R3DS8IT8Cio" caption="" %}
+<iframe width="100%" height="auto"
+  src="https://www.youtube.com/embed/R3DS8IT8Cio" frameborder="0"
+  allow="encrypted-media"
+  allowfullscreen>
+</iframe>
 
 Et si vous préférez lire, c'est par ici :
 
