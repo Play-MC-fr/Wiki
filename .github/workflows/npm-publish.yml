@@ -27,26 +27,26 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm run build
-    #- run: cd src/.vuepress/dist
-    #- run: git config --global user.name "Robot"
-    #- run: git config --global user.email contact@play-mc.fr
-    # run: cd src/.vuepress/dist && git init
-    #- run: cd src/.vuepress/dist && git add -A
-    #- run: cd src/.vuepress/dist && git commit -m 'deploy'
+    - run: cd src/.vuepress/dist
+    - run: git config --global user.name "Robot"
+    - run: git config --global user.email contact@play-mc.fr
+    - run: cd src/.vuepress/dist && git init
+    - run: cd src/.vuepress/dist && git add -A
+    - run: cd src/.vuepress/dist && git commit -m 'deploy'
    # - run: cd src/.vuepress/dist && git push -f git@github.com:Play-MC-fr/Wiki.git master:gh-pages
-    #- name: Push changes
-    #  uses: ad-m/github-push-action@master
-    #  with:
-    #    github_token: ${{ secrets.GITHUB_TOKEN }}
-    #    branch: master:gh-pages
-    #    directory: ./src/.vuepress/dist
-
-    - name: Commit changes
-      uses: EndBug/add-and-commit@v6
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        author_name: Robot
-        author_email: contact@play-mc.fr
-        message: 'Automated commit'
-        branch: master:gh-pages
-        cwd: './src/.vuepress/dist/' 
-        add: '.'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+        directory: ./src/.vuepress/dist
+
+    #- name: Commit changes
+    #  uses: EndBug/add-and-commit@v6
+    #  with:
+    #    author_name: Robot
+    #    author_email: contact@play-mc.fr
+    #    message: 'Automated commit'
+    #    branch: master:gh-pages
+    #    cwd: './src/.vuepress/dist/' 
+    #    add: '.'
