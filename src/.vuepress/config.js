@@ -76,11 +76,11 @@ module.exports = {
           title: 'Serveur Survie',
           collapsable: false,
           children: [
-            '/serveur-creatif/generalites.md',
-            '/serveur-creatif/acquerir-vos-premieres-ressources.md',
-            '/serveur-creatif/ou-vous-installer.md',
-            '/serveur-creatif/proteger-votre-terrain.md',
-            '/serveur-creatif/le-monde-ressource.md',
+            '/serveur-survie/generalites.md',
+            '/serveur-survie/acquerir-vos-premieres-ressources.md',
+            '/serveur-survie/ou-vous-installer.md',
+            '/serveur-survie/proteger-votre-terrain.md',
+            '/serveur-survie/le-monde-ressource.md',
             '/serveur-survie/regles.md',
           ]
         },
