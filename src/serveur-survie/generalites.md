@@ -10,7 +10,7 @@ Il n’y a pas d’objectif clairement défini, le but majeur étant de créer, 
 
 Vous recherchez un résumé en vidéo ? Un de nos joueurs l'a fait !
 
-[![Vidéo de présentation du serveur Vanilla](../assets/youtube/video_presentation_vanilla.jpg)](https://www.youtube.com/watch?v=SxMJ_jLrQ7c)
+[![Vidéo de présentation du serveur Vanilla](../.vuepress/assets/youtube/video_presentation_vanilla.jpg)](https://www.youtube.com/watch?v=SxMJ_jLrQ7c)
 
 Si vous êtes pas trop lecture, ne ratez pas la section "Protéger votre terrain" pour une seconde vidéo d'aide au démarrage sur le serveur survie :\)
 
