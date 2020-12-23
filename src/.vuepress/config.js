@@ -56,7 +56,7 @@ module.exports = {
           title: 'Introduction',
           collapsable: false,
           children: [
-            'README.md',
+            '',
             'quel-serveur-choisir.md',
           ]
         },
@@ -64,7 +64,7 @@ module.exports = {
           title: 'Serveur Survie',
           collapsable: false,
           children: [
-            '/serveur-survie/README.md',
+            '/serveur-survie/regles.md',
           ]
         }
       ],
