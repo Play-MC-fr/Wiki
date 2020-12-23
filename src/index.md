@@ -1,6 +1,8 @@
 # Bien débuter
 
-### BONJOUR !
+-----
+
+### Bonjour !
 
 Le staff et les joueurs de Play-MC.fr vous souhaitent la bienvenue !
 
