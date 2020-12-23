@@ -34,6 +34,6 @@ jobs:
         author_name: Your Name
         author_email: mail@example.com
         message: 'Your commit message'
-        branch: pages
+        branch: page
         #cwd: src/.vuepress/dist/ 
         add: 'src/.vuepress/dist/*'
