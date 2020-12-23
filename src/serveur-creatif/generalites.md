@@ -34,7 +34,7 @@ Vous avez accès à quelques commandes supplémentaires :
 
 Voici quelques ressources pour découvrir le serveur créatif :
 
-<iframe width="1120" height="630"
+<iframe width="100%" height="100%"
   src="https://www.youtube.com/embed/TfyDxtaItLw" frameborder="0"
   allow="encrypted-media"
   allowfullscreen>

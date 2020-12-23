@@ -30,7 +30,7 @@ module.exports = {
    */
   themeConfig: {
     logo: "https://play-mc.fr/img/logotext3_red.png",
-    repo: 'https://github.com/Play-MC-fr/Wiki',
+    repo: '',
     searchPlaceholder: 'Rechercher',
     editLinks: false,
     docsDir: 'src',
