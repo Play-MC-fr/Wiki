@@ -13,7 +13,7 @@ Il n’y a pas d’objectif clairement défini, le but majeur étant de créer, 
 
 Vous recherchez un résumé en vidéo ? Un de nos joueurs l'a fait !
 
-{% embed url="https://www.youtube.com/watch?v=SxMJ\_jLrQ7c" caption="" %}
+<iframe src="https://www.youtube.com/watch?v=SxMJ\_jLrQ7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Si vous êtes pas trop lecture, ne ratez pas la section "Protéger votre terrain" pour une seconde vidéo d'aide au démarrage sur le serveur survie :\)
 
