@@ -30,11 +30,16 @@ jobs:
     - run: cd src/.vuepress/dist
     - run: git config --global user.name "Robot"
     - run: git config --global user.email contact@play-mc.fr
-    - run: git init
-    - run: git add -A
-    - run: git commit -m 'deploy'
-    - run: git push -f git@github.com:Play-MC-fr/Wiki.git master:gh-pages
-  
+    - run: cd src/.vuepress/dist && git init
+    - run: cd src/.vuepress/dist && git add -A
+    - run: cd src/.vuepress/dist && git commit -m 'deploy'
+   # - run: cd src/.vuepress/dist && git push -f git@github.com:Play-MC-fr/Wiki.git master:gh-pages
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master:gh-pages
+
     #- name: Commit changes
     #  uses: EndBug/add-and-commit@v6
     #  with:
