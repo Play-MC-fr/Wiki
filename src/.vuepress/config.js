@@ -34,12 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Home',
+        link: 'https://play-mc.fr',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Wiki',
+        link: '/',
       },
       {
         text: 'Forum',
@@ -51,14 +51,20 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/': [
         {
-          title: 'Aide',
+          title: 'Introduction',
           collapsable: false,
           children: [
-            '',
-            'Sommaire.md',
+            'README.md',
             'quel-serveur-choisir.md',
+          ]
+        },
+        {
+          title: 'Serveur Survie',
+          collapsable: false,
+          children: [
+            '/serveur-survie/README.md',
           ]
         }
       ],
