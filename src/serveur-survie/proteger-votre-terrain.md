@@ -4,7 +4,7 @@
 
 Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur ClemW\), vous en avez de la chance !
 
-<iframe width="1120" height="630"
+<iframe width="100%" height="630"
   src="https://www.youtube.com/embed/R3DS8IT8Cio" frameborder="0"
   allow="encrypted-media"
   allowfullscreen>
