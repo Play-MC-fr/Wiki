@@ -1,7 +1,3 @@
----
-home: true
----
-
 # Bien débuter
 
 ### BONJOUR !
