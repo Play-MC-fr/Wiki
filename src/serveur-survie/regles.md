@@ -1,7 +1,5 @@
 # Règles
 
-## Règles
-
 ### Règle 1
 
 Il est interdit d'utiliser le chat principal ou les messages privés pour y diffuser des messages grossiers, vulgaires, sciemment faux, abusifs, haineux, misogynes ou homophobes.
@@ -47,7 +45,7 @@ Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut
 
 Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le kill d’une personne à répétition peut être puni.
 
-## Règles techniques et particularités
+### Règles techniques et particularités
 
 * Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
 * Les boucles de redstone sont interdites. Les blocs détecteurs et les BUD sont autorisés.
@@ -59,7 +57,7 @@ Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le 
 * Le rassemblement d’entités sur un unique bloc est interdit, mais toutefois autorisé s’il amène sur une zone de plusieurs blocs. \(ex : avec de l’eau\)
 * Un système qui serait susceptible de devenir source de lags peut être interdit. \(ex : trieurs dans les salles des coffres ou entités trop nombreuses\)
 
-## Informations
+### Informations
 
 * La fonction "message privé" en jeu, via /m ou /mp, n’exclut pas que vos échanges soient visible par des modérateurs. Ces échanges resteront évidemment privés mais vous pourrez être sanctionné de la même manière que pour des propos désobligeants dans le chat public. 
 * Les modérateurs possèdent par ailleurs la capacité de se téléporter à vous de manière invisible afin de contrôler votre environnement et le respect de nos règles.

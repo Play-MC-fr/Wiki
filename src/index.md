@@ -1,15 +1,14 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Wiki de Play-MC.fr
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 
-- title: Feature 2 Title
-  details: Feature 2 
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Play-MC.fr with ❤️
 ---
+
+# Bien débuter
+
+### BONJOUR !
+
+Le staff et les joueurs de Play-MC.fr vous souhaitent la bienvenue !
+
+Vous trouverez ici toutes les informations pour débuter de nouvelles aventures avec nous !
+
+N'hésitez plus, passez à l'étape suivante pour choisir le serveur qui vous conviendra le mieux.
+

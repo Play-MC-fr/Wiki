@@ -65,6 +65,15 @@ module.exports = {
           collapsable: false,
           children: [
             '/serveur-survie/regles.md',
+            '/serveur-survie/generalites/'
+          ]
+        },
+        {
+          title: 'Serveur Créatif',
+          collapsable: false,
+          children: [
+            '/serveur-creatif/generalites.md',
+            '/serveur-creatif/regles.md',
           ]
         }
       ],
