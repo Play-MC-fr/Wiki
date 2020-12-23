@@ -1,9 +1,11 @@
 # Généralités
 
+------
+
 Notre serveur est un serveur au plus proche du Vanilla, c’est-à-dire brut de décoffrage et essentiellement sans mods ajoutés.
 
-::: tip Info de connexion
-IP : vanilla.play-mc.fr
+::: tip IP de connexion :
+vanilla.play-mc.fr
 :::
 
 Il n’y a pas d’objectif clairement défini, le but majeur étant de créer, miner, marchander et s’amuser ensemble. Certains joueurs choisissent de construire une simple cabane, leur propre royaume, rejoindre une ville ou encore aider à un projet commun par exemple.
@@ -12,7 +14,7 @@ Vous recherchez un résumé en vidéo ? Un de nos joueurs l'a fait !
 
 [![Vidéo de présentation du serveur Vanilla](../.vuepress/assets/youtube/video_presentation_vanilla.jpg)](https://www.youtube.com/watch?v=SxMJ_jLrQ7c)
 
-<iframe max-width=100% height=auto
+<iframe width="100%" height=auto
   src="https://www.youtube.com/embed/SxMJ_jLrQ7c" frameborder="0"
   allow="encrypted-media"
   allowfullscreen>
@@ -21,8 +23,6 @@ Vous recherchez un résumé en vidéo ? Un de nos joueurs l'a fait !
 Si vous êtes pas trop lecture, ne ratez pas la section "Protéger votre terrain" pour une seconde vidéo d'aide au démarrage sur le serveur survie :\)
 
 {% page-ref page="proteger-votre-terrain.md" %}
-
-<button name="button">Click me</button>
 
 Maintenant que vous avez compris l'idée générale de notre serveur Survie, il est temps de jeter un oeil attentif aux règles de celui-ci.
 

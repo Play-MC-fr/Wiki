@@ -29,11 +29,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    logo: "/assets/logo_pmc.png",
+    logo: "./assets/logo_pmc.png",
     repo: 'https://github.com/Play-MC-fr/Wiki',
     searchPlaceholder: 'Rechercher',
     editLinks: true,
-    docsDir: '',
+    docsDir: 'src',
     editLinkText: '',
     lastUpdated: false,
     nav: [

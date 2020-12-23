@@ -1,5 +1,7 @@
 # Où vous installer
 
+-----
+
 C'est bon ? Vous avez de quoi vous nourrir et un peu de bois pour débuter votre aventure ?  
 Nous vous encourageons alors à poursuivre votre chemin.  
 En effet le spawn étant très urbanisé il vous sera difficile d’y trouver un terrain libre et des ressources \(minières et naturelles\).

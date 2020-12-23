@@ -1,6 +1,6 @@
 # Le monde ressource
 
-## Le monde ressource
+-----
 
 Enfin, vous avez certainement remarqué que le bâtiment du spawn fait également office de HUB. Vous avez ainsi la possibilité d’accéder directement au nether, mais également au monde ressource et au monde event.
 
@@ -16,9 +16,9 @@ Le portail menant au monde ressource :
 
 ![](https://play-mc.fr/img/guide/spawn4.jpg)
 
-{% hint style="info" %}
+::: tip Info
 Le portail est généralement activé uniquement pendant les événements
-{% endhint %}
+:::
 
 ## Merci pour votre attention !
 

@@ -1,5 +1,7 @@
 # Règles
 
+-----
+
 ## Règle 1
 
 Il est interdit d'utiliser le chat principal ou les messages privés pour y diffuser des messages grossiers, vulgaires, sciemment faux, abusifs, haineux, misogynes ou homophobes.

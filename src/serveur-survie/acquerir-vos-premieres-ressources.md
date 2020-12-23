@@ -1,5 +1,7 @@
 # Acquérir vos premières ressources
 
+-----
+
 Après avoir pris en compte ces informations, vous vous connectez enfin et débarquez au spawn !
 
 ![Bienvenue sur le serveur](../.vuepress/assets/ressources1.jpg)
