@@ -42,17 +42,23 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Forum',
+        link: 'https://play-mc.fr/forum'
+      },
+      {
+        text: 'Discord',
+        link: 'http://discord.play-mc.fr'
       }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'Aide',
           collapsable: false,
           children: [
             '',
+            'Sommaire.md',
+            'quel-serveur-choisir.md',
           ]
         }
       ],
