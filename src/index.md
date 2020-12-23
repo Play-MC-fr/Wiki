@@ -8,7 +8,7 @@ features:
 - title: Feature 1 Title
   details: Feature 1 
 - title: Feature 2 Title
-  details: Feature 2 Description
+  details: Feature 2 
 - title: Feature 3 Title
   details: Feature 3 Description
 footer: Made by Play-MC.fr with ❤️
