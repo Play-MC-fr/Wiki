@@ -36,4 +36,4 @@ jobs:
         message: 'Your commit message'
         branch: pages
         #cwd: src/.vuepress/dist/ 
-        add: '*'
+        add: 'src/.vuepress/dist/*'
