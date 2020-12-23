@@ -27,13 +27,20 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm run build
+    - run: cd src/.vuepress/dist
+    - run: git config --global user.name "Robot"
+    - run: git config --global user.email contact@play-mc.fr
+    - run: git init
+    - run: git add -A
+    - run: git commit -m 'deploy'
+    - run: git push -f git@github.com:Play-MC-fr/Wiki.git master:gh-pages
   
-    - name: Commit changes
-      uses: EndBug/add-and-commit@v6
-      with:
-        author_name: Robot
-        author_email: contact@play-mc.fr
-        message: 'Automated commit'
-        branch: page
-        cwd: './src/.vuepress/dist/' 
-        add: '.'
+    #- name: Commit changes
+    #  uses: EndBug/add-and-commit@v6
+    #  with:
+    #    author_name: Robot
+    #    author_email: contact@play-mc.fr
+    #    message: 'Automated commit'
+    #    branch: page
+    #    cwd: './src/.vuepress/dist/' 
+    #    add: '.'
