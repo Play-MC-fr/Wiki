@@ -31,6 +31,7 @@ jobs:
     - run: git config --global user.name "Robot"
     - run: git config --global user.email contact@play-mc.fr
   
+    - run: cd src/.vuepress/dist && echo 'docs.play-mc.fr' > CNAME
     - run: cd src/.vuepress/dist && git init
     - run: cd src/.vuepress/dist && git add -A
     - run: cd src/.vuepress/dist && git commit -m 'deploy'
