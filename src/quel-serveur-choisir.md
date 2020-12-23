@@ -20,4 +20,7 @@ Notre serveur **Créatif** quant à lui propose aux joueurs de disposer des outi
 
 {% page-ref page="serveur-creatif/generalites.md" %}
 
+### Le pépinière
+
+Texte à venir.
 

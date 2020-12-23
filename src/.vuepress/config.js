@@ -32,7 +32,7 @@ module.exports = {
     logo: "https://play-mc.fr/img/logotext3_red.png",
     repo: 'https://github.com/Play-MC-fr/Wiki',
     searchPlaceholder: 'Rechercher',
-    editLinks: true,
+    editLinks: false,
     docsDir: 'src',
     editLinkText: 'Editer cette page',
     lastUpdated: false,
@@ -42,7 +42,7 @@ module.exports = {
         link: 'https://play-mc.fr',
       },
       {
-        text: 'Wiki',
+        text: 'Guide',
         link: '/',
       },
       {
@@ -91,6 +91,15 @@ module.exports = {
           children: [
             '/serveur-creatif/generalites.md',
             '/serveur-creatif/regles.md',
+          ]
+        },
+        {
+          title: 'Serveur Pépinière',
+          collapsable: false,
+          children: [
+            '/serveur-pepiniere/presentation.md',
+            '/serveur-pepiniere/mini-jeux.md',
+            '/serveur-pepiniere/randomland.md',
           ]
         }
       ],

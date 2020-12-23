@@ -12,7 +12,7 @@ Il n’y a pas d’objectif clairement défini, le but majeur étant de créer, 
 
 Vous recherchez un résumé en vidéo ? Un de nos joueurs l'a fait !
 
-<iframe width="560" height="315"
+<iframe width="1120" height="630"
   src="https://www.youtube.com/embed/SxMJ_jLrQ7c" frameborder="0"
   allow="encrypted-media"
   allowfullscreen>
