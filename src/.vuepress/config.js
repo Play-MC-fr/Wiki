@@ -10,6 +10,8 @@ module.exports = {
    */
   description: description,
 
+  base: '/',
+
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
@@ -28,7 +30,8 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    editLinks: false,
+    searchPlaceholder: 'Rechercher',
+    editLinks: true,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
@@ -48,6 +51,15 @@ module.exports = {
       {
         text: 'Discord',
         link: 'http://discord.play-mc.fr'
+      },
+      {
+        text: 'Partenaires',
+        items: [
+          { text: 'mtxServ', link: 'https://mtxserv.com/fr/' },
+          { text: 'Minecraft-France', link: 'https://www.minecraft-france.fr/' },
+          { text: 'Gunivers', link: 'https://gunivers.net/' },
+          { text: 'Syraniix', link: 'https://www.youtube.com/channel/UC9YGYDEGI6B5uQL_CbQbcdw' },
+        ]
       }
     ],
     sidebar: {
