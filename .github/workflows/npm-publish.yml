@@ -27,6 +27,7 @@ jobs:
       run: |
         npm install
         npm install -D @vuepress/plugin-back-to-top
+        npm install -D @vuepress/plugin-medium-zoom
       
     - name: Build
       run: npm run build
