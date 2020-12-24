@@ -4,17 +4,33 @@
 
 <br/>
 
-## Comment proposer un event/projet
+## Quelles sont les conditions pour l'acceptation d'un projet ?
+
+* Ne pas proposer une copie conforme de nos serveurs (survie, créatif, snapshot), l'intérêt pour le coup limité ;
+
+* Respect des conditions générales de Minecraft (https://www.minecraft.net/fr-ca/eula/) ;
+
+* Respect des conditions générales de notre hébergeur (https://mtxserv.com/) ;
+
+* Respect des règles de play-mc.fr ;
+
+* Pas de boutique.
+
+<br/>
+
+## Comment proposer un event/projet ?
 
 * Créez un nouveau sujet dans la catégorie "Général -> Pépinière" sur le Forum avec un titre de la forme suivante :
-
-... [Proposition Projet] Nom_du_projet (type du serveur)
-... [Proposition Event] Nom_de_l'event (type du serveur)
+[Proposition Projet] Nom_du_projet (type du serveur)
+[Proposition Event] Nom_de_l'event (type du serveur)
 
 * Précisez qui participe à la préparation du projet ;
-* Décrivez votre projet
-* Présentez la partie technique de votre serveur
-* Pensez aux détails
+
+* Décrivez votre projet ;
+
+* Présentez la partie technique de votre serveur ;
+
+* Pensez aux détails.
 
 <br/>
 
