@@ -4,11 +4,7 @@
 
 Cette partie du tutoriel est disponible en vidéo \(réalisée par le joueur ClemW\), vous en avez de la chance !
 
-<iframe width="100%" height="100%"
-  src="https://www.youtube.com/embed/R3DS8IT8Cio" frameborder="0"
-  allow="encrypted-media"
-  allowfullscreen>
-</iframe>
+[![Grief Prevention](../.vuepress/assets/yt_griefprevention.jpg)](https://www.youtube.com/watch?v=R3DS8IT8Cio)
 
 Et si vous préférez lire, c'est par ici :
 
