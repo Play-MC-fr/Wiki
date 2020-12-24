@@ -18,10 +18,12 @@ Si vous êtes pas trop lecture, ne ratez pas la section "Protéger votre terrain
 
 {% page-ref page="proteger-votre-terrain.md" %}
 
----toml
-actionText = "Protéger votre terrain →"
-actionLink = "/proteger-votre-terrain.md"
----
+<button
+  :class="$style.button"
+  @click="openPlayground"
+>
+  Open Playground
+</button>
 
 Maintenant que vous avez compris l'idée générale de notre serveur Survie, il est temps de jeter un oeil attentif aux règles de celui-ci.
 
