@@ -8,9 +8,15 @@ crea.play-mc.fr
 
 Qu'entendons-nous par "vanilla créatif" ? Tout simplement la mise à disposition d'un terrain vierge avec le mode de jeu créatif \(gamemode 1\). Nous restons évidemment fidèles à notre marque de fabrique vanilla : un minimum de plugins et on reste proche du jeu de base !
 
-Vos terrains et constructions sont protégés par le plugin "griefprevention" déjà utilisé sur le serveur survie. Pour rappel, la vidéo d'explication : [https://www.youtube.com/watch?v=R3DS8IT8Cio](https://www.youtube.com/watch?v=R3DS8IT8Cio)
+<br/>
 
-Vous disposez dès votre 1ère connexion de **20.000 blocs** de claim ! Ceux-ci augmenteront de 1000 blocs par heure de jeu. Vous êtes responsables de ce qu'il arrive dans votre claim et des personnes que vous autorisez à l'intérieur !
+Vos terrains et constructions sont protégés par le plugin "griefprevention" déjà utilisé sur le serveur survie. Pour rappel, la vidéo d'explication : 
+
+[![Grief Prevention](../.vuepress/assets/yt_griefprevention.jpg)](https://www.youtube.com/watch?v=R3DS8IT8Cio)
+
+<br/>
+
+Vous disposez dès votre 1ère connexion de **20.000 blocs** de claim ! Ceux-ci augmenteront de **1000 blocs par heure** de jeu. Vous êtes responsables de ce qu'il arrive dans votre claim et des personnes que vous autorisez à l'intérieur !
 
 Dès votre arrivée, vous apparaîtrez au "spawn" ! Vous aurez alors le choix entre deux mondes distincts : "flatworld" et "seed"
 
