@@ -24,7 +24,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     
     - name: NPM pre-config
-      run: npm install
+      run: |
+        npm install
+        npm install -D @vuepress/plugin-back-to-top
       
     - name: Build
       run: npm run build
