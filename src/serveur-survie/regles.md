@@ -47,6 +47,8 @@ Le claim d’un joueur absent \(au bout d’1 mois si vide, sinon 2 mois\), peut
 
 Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le kill d’une personne à répétition peut être puni.
 
+<br/>
+
 ### Règles techniques et particularités
 
 * Les systèmes “anti-AFK” sont interdits, la création de fermes à pêche est interdite car elles peuvent être utilisées comme anti-AFK.
@@ -58,6 +60,8 @@ Le pvp est activé dans le monde ressource. Le “spawnkill” est interdit. Le 
 * Tout système visant à tuer des entités est interdit.
 * Le rassemblement d’entités sur un unique bloc est interdit, mais toutefois autorisé s’il amène sur une zone de plusieurs blocs. \(ex : avec de l’eau\)
 * Un système qui serait susceptible de devenir source de lags peut être interdit. \(ex : trieurs dans les salles des coffres ou entités trop nombreuses\)
+
+<br/>
 
 ### Informations
 
