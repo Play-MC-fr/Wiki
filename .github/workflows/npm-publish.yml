@@ -18,23 +18,41 @@ jobs:
         node-version: [12.x]
 
     steps:
-    - uses: actions/checkout@v2
+    - name: checkout
+      uses: actions/checkout@v2
 
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
     
-    - run: npm install
-    - run: npm run build
+    - name: NPM pre-config
+      run: npm install
       
-    - run: git config --global user.name "Robot"
-    - run: git config --global user.email contact@play-mc.fr
-  
-    - run: cd src/.vuepress/dist && echo 'docs.play-mc.fr' > CNAME
-    - run: cd src/.vuepress/dist && git init
-    - run: cd src/.vuepress/dist && git add -A
-    - run: cd src/.vuepress/dist && git commit -m 'deploy'
+    - name: Build
+      run: npm run build
+      
+   # - run: git config --global user.name "Robot"
+   # - run: git config --global user.email contact@play-mc.fr
+
+   # - run: cd src/.vuepress/dist && echo 'docs.play-mc.fr' > CNAME
+   # - run: cd src/.vuepress/dist && git init
+   # - run: cd src/.vuepress/dist && git add -A
+   # - run: cd src/.vuepress/dist && git commit -m 'deploy'
+
+    - name: setup git config
+      run: |
+        # setup the username and email. 
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+          
+    - name: add and commit
+      run: |
+        cd src/.vuepress/dist
+        echo 'docs.play-mc.fr' > CNAME
+        git init
+        git add -A
+        git commit -m 'deploy'
 
     - name: Push changes
       uses: ad-m/github-push-action@master
