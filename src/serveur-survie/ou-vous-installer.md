@@ -18,9 +18,13 @@ Ou encore, pour les plus téméraires, les passages rapides via le nether.
 
 ![](https://play-mc.fr/img/spawn-nether.jpg)
 
+<br/>
+
 Le nether est totalement aménagé et très sécurisé. Il s’étend selon un plan précis et certaines règles :
 
 ![Organisation du nether](../.vuepress/assets/nether1.png)
+
+<br/>
 
 Vous pouvez trouver toutes les informations détaillées sur le fonctionnement du nether [ici](http://play-mc.fr/forum/d/292-organisation-du-nether).
 
