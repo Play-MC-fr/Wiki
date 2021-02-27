@@ -4,6 +4,8 @@
 
 ### Le random, qu'est-ce ?
 
+::: tip Le serveur randomland a pris son indépendance. Retrouvez le sur https://randomland.fr :::
+
 D'où son nom en anglais le random c'est de l'aléatoire. Sur minecraft, il est rendu possible d'une part en modifiant les loots ou d'autre part en modifiant les crafts. Sur ce serveur l'aléatoire est basé sur les loots. Casser un simple bloc d'herbe ne vous donnera plus ce dernier, ce peut être du diamant, un bloc de laine blanche tout comme un cadre. L'obtention des objets et blocs nécessaires à une survie peuvent eux être plus simple à avoir tout comme plus compliqué avec ce système d'aléatoire.
 
 Les loots random sont réinitialisés toutes les deux semaines pour laisser place à de nouvelles chaînes d'aléatoire de blocs et objets.
@@ -14,10 +16,12 @@ Sur RandomLand vous avez également la possibilité de commercer avec les joueur
 
 ### Comment nous rejoindre ?!
 
-Venez sur le serveur via l'ip suivante : `randomland.play-mc.fr` en 1.16.4
+Venez sur le serveur via l'ip suivante : `play.randomland.fr` en 1.16.4
 
 Rejoignez nous également sur le discord dédié au serveur : [https://discord.gg/4vrdzAZ](https://discord.gg/4vrdzAZ)
 
 <br/>
 
 Tous les détails : [https://play-mc.fr/forum/d/2027-serveur-pepiniere-n02-randomland](https://play-mc.fr/forum/d/2027-serveur-pepiniere-n02-randomland)
+
+Site officiel : [https://randomland.fr/](https://randomland.fr/)
