@@ -2,9 +2,7 @@
 
 -----
 
-::: tip 4 Nations, 4 peuples, leur but ?
-
-:::
+::: tip 4 Nations, 4 peuples, leur but ? :::
 
 * Survivre contre les mobs, développer votre nation et envahir les autres.
 * Ce serveur est un serveur survie dans lequel l’objectif est de fortifier votre territoire pour survivre contre les mobs et les ennemis et éviter que ces derniers ne vous envahissent.
