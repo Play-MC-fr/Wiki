@@ -18,6 +18,8 @@ A ce jour, deux projets sont en cours et soutenus par Play-MC.fr :
 
 * [Mini-jeux / UHC](mini-jeux.md)
 
+* [Rivals](rivals.md)
+
 * [Randomland](randomland.md)
 
 Tous les détails sur ces deux projets sont disposibles dans leur présentation respective.
