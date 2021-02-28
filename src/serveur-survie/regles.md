@@ -37,7 +37,9 @@ Respectez le paysage. Les constructions peu esthétiques telles que des tours de
 
 ### Règle 9
 
-Afin d’éviter les lags, vous êtes limités à 15 animaux de chaque espèce sur l'ensemble de vos terrains personnels/claims \(chevaux, ânes et mules étant considérés comme une même espèce\).
+Afin d’éviter les lags, vous êtes limités à 15 animaux de chaque espèce sur l'ensemble de vos terrains personnels/claims (chevaux, ânes et mules étant considérés comme une même espèce) mais aussi une proportion de 200 coffres simples par chunk pour une zone isolé et 50 coffres simples par chunk pour une zone commerciale.
+
+Plus d'infos sur la partie liée aux coffres : [https://play-mc.fr/forum/d/2033-ajout-a-la-regle-9](https://play-mc.fr/forum/d/2033-ajout-a-la-regle-9)
 
 ### Règle 10
 
