@@ -2,8 +2,8 @@
 
 -----
 
-::: 
-4 Nations, 4 peuples, leur but ? 
+::: tip 4 Nations, 4 peuples, leur but ? 
+..
 :::
 
 * Survivre contre les mobs, développer votre nation et envahir les autres.
